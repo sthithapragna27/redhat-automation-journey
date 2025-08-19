@@ -1,0 +1,8 @@
+Simple Automation tasks
+Tasks:
+ -name: System check info
+  command: python system_check.py
+ -name: Show current directory
+  command: pwd
+ -name: List files
+  command: ls -la
