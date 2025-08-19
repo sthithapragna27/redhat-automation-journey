@@ -1,0 +1,8 @@
+##Learning YAML
+student: abhil
+goal: redhat dev
+current skill: Git Basics
+completed:
+  - created repository:
+  - fixed python script:
+  - learned git flow:
